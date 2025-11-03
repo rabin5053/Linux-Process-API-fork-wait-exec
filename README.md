@@ -42,6 +42,7 @@ int main() {
         wait(NULL); 
     }
 }
+
 ~~~
 
 
@@ -49,13 +50,8 @@ int main() {
 
 
 
-
-
-
-
-
 ##OUTPUT
-<img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/dc17ed1f-05ce-454e-bffd-e4d2c3fd8cbe" />
+<img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/56489817-7458-4c31-a183-aaacd8fbaad7" />
 
 
 
@@ -133,7 +129,7 @@ int main() {
 
 ##OUTPUT
 
-<img width="935" height="405" alt="image" src="https://github.com/user-attachments/assets/9362252c-404e-4736-b1e7-6bd08bc82a33" />
+<img width="935" height="405" alt="image" src="https://github.com/user-attachments/assets/a67eca3f-fb6f-4a3c-8821-4326b826a297" />
 
 
 
